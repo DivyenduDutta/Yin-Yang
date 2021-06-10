@@ -1,6 +1,9 @@
 <p align="center"><img src="https://github.com/DivyenduDutta/Yin-Yang/blob/master/Assets/Textures/Misc/feature.png" alt="yin yang feature"></p>
 
-Yin Yang is a shoot em up for Android written in Unity. Its a vertical slice and features only 1 complete level. Check it out on the <a href="https://play.google.com/store/apps/details?id=com.DivineSense.YinYang">Play Store</a> and here's a <a href="https://www.youtube.com/watch?v=uoMllJXDqZw">trailer</a>
+Yin Yang is a shoot em up for Android written in Unity. Its a vertical slice and features only 1 complete level. 
+
+Check it out on the <a href="https://play.google.com/store/apps/details?id=com.DivineSense.YinYang">Play Store</a> and here's a <a href="https://www.youtube.com/watch?v=uoMllJXDqZw">trailer</a>.
+
 Inspired from Ikaruga, Yin Yang uses the polarity mechanic to switch between the light and dark states. Use this to your advantage in navigating the bullets on screen. This looks like a bullet hell but is much more than that.
 
 ## Story
