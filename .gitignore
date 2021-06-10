@@ -1,0 +1,13 @@
+﻿.vs
+Android Build
+Logs
+obj
+.vsconfig
+android_keystore_stuff.txt
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+GameAssembly.csproj
+Tests.csproj
+Yin Yang.sln
+UserSettings
+Library
